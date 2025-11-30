@@ -1,4 +1,4 @@
-👋🏼 hi i'm nigel
+```👋🏼 hey i'm nigel```
 
 🌆 Seattle, WA  
 🔭 Physics/Astronomy BSc. (in progress)  
